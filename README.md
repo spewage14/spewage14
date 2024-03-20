@@ -1,6 +1,8 @@
 ### Hello! | Привет! | Hallo! | Talofa lava! 👋
 
-The name's spewage. I'm a cybersecurity researcher from God-knows-where. I upload interesting projects I work on here, you can also find blog posts explaining what they are and how I use them on my <b>website</b>: <b><a href="https://spewage.lol">spewage.lol</a></b>. I am fluent in <b>English (🇬🇧), Русский (🇷🇺), Afrikaans (🇿🇦)</b> and <b>Samoa (🇼🇸)</b>. 
+The name's spewage. I'm a cybersecurity researcher from God-knows-where. I upload interesting projects I work on here, you can also find blog posts explaining what they are and how I use them on my <b>website</b>: <b><a href="https://spewage.lol">spewage.lol</a></b>. I am fluent in <b>English (🇬🇧), Русский (🇷🇺), Afrikaans (🇿🇦)</b> and <b>Samoan (🇼🇸)</b>
+<br>
+I can also speak some <b>Tongan (🇹🇴)</b> and <b>Te Reo Māori (🇳🇿)</b>.
 
 I am fluent in <b>Python, PHP, JS, TypeScript</b> and <b>Lua</b>. I also am fairly decent at <b>Golang, Rust</b> and <b>HolyC</b> (I'm learning the last one as a joke).
 
