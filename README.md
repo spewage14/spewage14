@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The name's spewage. I'm a cybersecurity researcher from God-knows-where. I upload interesting projects I work on here, you can also find blog posts explaining what they are and how I use them on my website: <a href="https://spewage.lol">spewage.lol</a>
+The name's spewage. I'm a cybersecurity researcher from God-knows-where. I upload interesting projects I work on here, you can also find blog posts explaining what they are and how I use them on my website: <a href="https://spewage.lol">spewage.lol</a>. I am fluent in English (🇬🇧), Русский (🇷🇺), Afrikaans (🇿🇦) and Samoa (🇼🇸). 
 
 I am fluent in Python, PHP, JS, TypeScript and Lua. I also am fairly decent at Golang, Rust and HolyC (I'm learning the last one as a joke).
 
