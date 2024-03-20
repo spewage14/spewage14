@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 The name's spewage. I'm a cybersecurity researcher from God-knows-where. I upload interesting projects I work on here, you can also find blog posts explaining what they are and how I use them on my website: <a href="https://spewage.lol">spewage.lol</a>
-<br>
+
 I am fluent in Python, PHP, JS, TypeScript and Lua. I also am fairly decent at Golang, Rust and HolyC (I'm learning the last one as a joke).
-<br>
+
 I mainly deal with web pentesting but I do a bit of reverse engineering occasionally. I would align myself as a grey-hat but nothing I do on either side of the fence is for financial gain, it's always done for fun and learning experiences. That being said, if you do wish to support me, please feel free to donate me some XMR: 4Api6GeNGYQWmgLNBMZReqGEfDiu98k5PR4bue2qowJqKScaSVeCrjPG8ojdhEogs39b8venbqVQq4tqzYqdjNaWJaDJ65y
 
 You can also contact me on Signal at: spewage19.84
