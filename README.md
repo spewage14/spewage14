@@ -6,7 +6,7 @@ I am fluent in <b>Python, PHP, JS, TypeScript</b> and <b>Lua</b>. I also am fair
 
 I mainly deal with web pentesting but I do a bit of reverse engineering occasionally. I would align myself as a grey-hat but nothing I do on either side of the fence is for financial gain, it's always done for fun and learning experiences. That being said, if you do wish to support me, please feel free to donate me some XMR: 4Api6GeNGYQWmgLNBMZReqGEfDiu98k5PR4bue2qowJqKScaSVeCrjPG8ojdhEogs39b8venbqVQq4tqzYqdjNaWJaDJ65y
 
-You can also contact me on <b>Signal</b> at: spewage19.84
+You can also contact me on <b>Signal</b> at: <b>spewage19.84</b>
 <br>
 Or on <b>Telegram</b> at: <b><a href="https://t.me/spewage">t.me/spewage</a></b>
 <br>
