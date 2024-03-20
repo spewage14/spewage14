@@ -4,7 +4,7 @@ The name's spewage. I'm a cybersecurity researcher from God-knows-where. I uploa
 
 I am fluent in <b>Python, PHP, JS, TypeScript</b> and <b>Lua</b>. I also am fairly decent at <b>Golang, Rust</b> and <b>HolyC</b> (I'm learning the last one as a joke).
 
-I mainly deal with web pentesting but I do a bit of reverse engineering occasionally. I would align myself as a grey-hat but nothing I do on either side of the fence is for financial gain, it's always done for fun and learning experiences. That being said, if you do wish to support me, please feel free to donate me some XMR: 4Api6GeNGYQWmgLNBMZReqGEfDiu98k5PR4bue2qowJqKScaSVeCrjPG8ojdhEogs39b8venbqVQq4tqzYqdjNaWJaDJ65y
+I mainly deal with web pentesting but I do a bit of reverse engineering occasionally. I would align myself as a grey-hat but nothing I do on either side of the fence is for financial gain, it's always done for fun and learning experiences. That being said, if you do wish to support me, please feel free to donate me some <b>XMR (Monero)</b>: <b>4Api6GeNGYQWmgLNBMZReqGEfDiu98k5PR4bue2qowJqKScaSVeCrjPG8ojdhEogs39b8venbqVQq4tqzYqdjNaWJaDJ65y</b>
 
 You can also contact me on <b>Signal</b> at: <b>spewage19.84</b>
 <br>
